@@ -1,0 +1,19 @@
+# Certificate and key files
+*.crt
+*.key
+*.csr
+*.pem
+
+# Temporary files
+.*.tmp
+*.temp
+*_temp
+
+# System files
+.DS_Store
+.env
+.env.local
+
+# Build and runtime files
+*.log
+*.pid
